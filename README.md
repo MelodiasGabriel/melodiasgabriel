@@ -3,8 +3,7 @@
   Hi, I'm <strong> Gabriel </strong>
 </h1>
 <h3 align="center">
-  and <br/>
- this is my GitHub ⚡
+ and this is my GitHub ⚡
 </h3>
 </div>
 
