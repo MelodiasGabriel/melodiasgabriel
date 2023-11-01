@@ -13,6 +13,13 @@
   17 Years | Junior Full Stack Developer | Web & Mobile Development
 </h3>
 </div>
+<br/>
+<div align="center">
+  <h1>
+  About me
+  </h1>
+  I discovered the world of programming exactly 1 year ago and since then, my desire to learn has only increased. <br/> In addition to programming, I also love playing drums and help my local church with some projects using Adobe tools.
+</div>
 
 <!--
   https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY4bWw4NHdiNTl1dmFhZ2NwNjZhY3JzMmI4OWlzbDAxbThnM2JqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mj4ruS6mHkdKEdmwc1/giphy.gif
