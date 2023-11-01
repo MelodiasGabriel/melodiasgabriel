@@ -1,8 +1,9 @@
 <div align="center">
 <h1 align="center">
-  Hi, I'm <strong> Gabriel </strong> and
+  Hi, I'm <strong> Gabriel </strong>
 </h1>
 <h3 align="center">
+  and <br/>
  this is my GitHub ⚡
 </h3>
 </div>
