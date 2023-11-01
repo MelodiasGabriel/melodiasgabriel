@@ -1,9 +1,11 @@
+<div align="center">
 <h1 align="center">
   Hi, I'm Gabriel
 </h1>
-<h3 align="center">
+<h4 align="center">
  this is my GitHub
-</h3>
+</h4>
+</div>
 
 <div align="center">
 <img width=50% src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY4bWw4NHdiNTl1dmFhZ2NwNjZhY3JzMmI4OWlzbDAxbThnM2JqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mj4ruS6mHkdKEdmwc1/giphy.gif"/>
