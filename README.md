@@ -3,14 +3,14 @@
   Hi, I'm <strong> Gabriel </strong> and
 </h1>
 <h3 align="center">
- this is my GitHub
+ this is my GitHub ⚡
 </h3>
 </div>
 
 <div align="center">
 <img width=50% src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY4bWw4NHdiNTl1dmFhZ2NwNjZhY3JzMmI4OWlzbDAxbThnM2JqZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mj4ruS6mHkdKEdmwc1/giphy.gif"/>
 <h3>
-  17 Years| Junior Full Stack Developer | Web & Mobile Development
+  17 Years | Junior Full Stack Developer | Web & Mobile Development
 </h3>
 </div>
 
